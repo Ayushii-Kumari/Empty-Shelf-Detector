@@ -1,0 +1,6 @@
+train: c:/Users/user/Desktop/Data Science/DL/DL Projects/SuperMarket Store Shelf Detector/images/train
+val: c:/Users/user/Desktop/Data Science/DL/DL Projects/SuperMarket Store Shelf Detector/images/val
+#test: C:/Users/user/Desktop/Data Science/DL/DL Projects/Empty shelf detector yolov8/test/images
+
+nc: 1
+names: ['Empty']

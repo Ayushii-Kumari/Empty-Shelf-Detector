@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+pytesseract
+torch
+torchvision
+PyYAML
+numpy
+pyttsx3
+gradio
+gtts

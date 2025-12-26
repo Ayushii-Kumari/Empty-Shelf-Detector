@@ -1,0 +1,9 @@
+myenv/
+.gradio/
+__pycache__/
+*.mp4
+*.mp3
+*.jpg
+*.png
+runs/
+yolov8n.pt
