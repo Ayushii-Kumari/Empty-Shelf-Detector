@@ -7,12 +7,9 @@ An automated inventory monitoring system that detects empty spaces on retail she
 
 ## 📺 Project Demo
 
-*(Place your demo video here after uploading it t
+
 
 https://github.com/user-attachments/assets/95ae97fa-dc60-4923-9f34-600f7b3fb0c8
-
-o GitHub)*
-
 
 
 ---
