@@ -97,10 +97,3 @@ The model was trained using the `data.yaml` configuration.
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ---
-
-### Next Step for You:
-
-1. Open your `README.md` file in VS Code.
-2. Delete everything currently in it.
-3. Paste the text above.
-4. **Would you like me to show you how to embed the video so it plays directly on the GitHub page?**
